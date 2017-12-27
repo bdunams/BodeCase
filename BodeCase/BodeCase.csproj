@@ -221,7 +221,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\app\public\favicon.ico" />
-    <Content Include="Scripts\app\public\index.html" />
+    <Content Include="Scripts\app\index.html" />
     <Content Include="Scripts\app\src\App.css" />
     <Content Include="Scripts\app\src\App.js" />
     <Content Include="Scripts\app\src\App.test.js" />
