@@ -220,6 +220,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\app\bundle.js" />
     <Content Include="Scripts\app\public\favicon.ico" />
     <Content Include="Scripts\app\index.html" />
     <Content Include="Scripts\app\src\App.css" />
@@ -229,6 +230,7 @@
     <Content Include="Scripts\app\src\index.js" />
     <Content Include="Scripts\app\src\logo.svg" />
     <Content Include="Scripts\app\src\registerServiceWorker.js" />
+    <Content Include="Scripts\app\webpack.config.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -239,6 +241,7 @@
     <Content Include="Scripts\app\package.json" />
     <Content Include="Scripts\app\public\manifest.json" />
     <Content Include="Scripts\app\README.md" />
+    <Content Include="Scripts\app\.babelrc" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
